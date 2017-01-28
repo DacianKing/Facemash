@@ -1,0 +1,103 @@
+.Facemash {
+	border: 15px solid #990000;
+	border-radius: 10px;
+	background-color: #990000;
+	color: white;
+	text-align: center;
+	font-size: 50;
+	font-family: "Rockwell";
+}
+div.girls{
+	position: absolute;
+	top: 350px;
+	right: 0%;
+	
+	font-size: 70;
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+	display:inline-block;
+}
+div.boys{
+	position: absolute;
+	top: 450px;
+	right: 0%;
+	
+	text-align: right;
+	font-size: 70;
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+	display:inline-block;
+
+}
+ button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+div.topScore{
+	position: justify;
+	top: 200px;
+	right: 48%;
+	font-size:30px;
+	font-family: Rockwell;
+	border: 3px solid #990000;
+	border-radius: 20px;
+	
+	}
+div.topscorepic{
+	position: fixed;
+	top: 50%;
+	height: 50px;
+	width: 50px;
+}
+div.topscoretest{
+	position: absolute;
+	top: 550px;
+	right: 0%;
+	font-size:70;
+	font-family: Rockwell;
+	
+}
+/*
+div.Jason{
+	position: fixed;
+	top:90%;
+	border: 15px solid red;
+	background-color: red;
+	text-align: center;
+	font-size: 20;
+	font-family: "Rockwell";
+	position: fixed;
+	color: white;
+}
+
+div.Andi{
+	position: fixed;
+	top:90%;
+	right: 5%;
+	border: 15px solid red;
+	background-color: red;
+	text-align: center;
+	font-size: 20;
+	font-family: "Rockwell";
+	position: fixed;
+	color: white;
+}
+
+div.blank{
+	position: fixed;
+	top:90%;
+	right: 50%;
+	border: 15px solid red;
+	background-color: red;
+	text-align: center;
+	font-size: 20;
+	font-family: "Rockwell";
+}
+*/
